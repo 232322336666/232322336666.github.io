@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "FU Zhengnan",
+    "label": "ENFJ",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "zhengnafu2-c@my.cityu.edu.hk",
+    "phone": "(852) 9742-3651",
+    "url": "https://2323222336666.github.io/",
+    "summary": "An ENFJ who can't save the world",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -22,136 +22,130 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "City University of Hong Kong, Hong Kong",
+      "location": "Hong Kong SAR, China",
+      "url": "https://www.cityu.edu.hk/",
+      "area": "Electronic Engineering",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2024-09",
+      "endDate": "2028-06",
+      "score": "",
+      "courses": ["Neuromorphic Computing", "Analog IC Design", "Brain-Machine Interface"]
+    },
+    {
+      "institution": "University of Chinese Academy of Sciences, Shanghai",
+      "location": "Shanghai, China",
+      "url": "https://www.ucas.ac.cn/",
+      "area": "Microelectronics and Solid-State Electronics",
+      "studyType": "Master",
+      "startDate": "2021-06",
+      "endDate": "2024-06",
+      "score": "",
+      "courses": ["Infrared FPA Readout Circuits", "Mixed-signal IC Design"]
+    },
+    {
+      "institution": "Central South University, Changsha",
+      "location": "Hunan, China",
+      "url": "https://www.csu.edu.cn/",
+      "area": "Electronic Information Science and Technology",
+      "studyType": "Bachelor",
+      "startDate": "2017-09",
+      "endDate": "2021-06",
+      "score": "",
+      "courses": ["Embedded Systems", "PCB Design", "Signal Processing"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "First Prize, RoboMaster 2020 Final Competition",
+      "date": "2020-08",
+      "awarder": "Central Committee of the Communist Youth League",
+      "url": "",
+      "summary": "National robotics competition champion"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "title": "First Prize, RoboMaster 2020 Embedded System Competition",
+      "date": "2020-08",
+      "awarder": "Central Committee of the Communist Youth League",
+      "url": "",
+      "summary": "Ranked 2nd in embedded system design category"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "title": "Greimey Innovation Practice Team Award",
+      "date": "2020-12",
+      "awarder": "Central South University",
+      "url": "",
+      "summary": "Top 10 innovation teams annually in CSU"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "Excellence Award, China Postgraduate IC Innovation Competition",
+      "date": "2023-08",
+      "awarder": "Chinese Institute of Electronics",
+      "url": "",
+      "summary": "National IC design competition excellence award"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "High Energy-efficiency and Low latency In-Memory Computing using Analog Accumulator and In-Memory ADC with shared References",
+      "publisher": "2025 62nd ACM/IEEE Design Automation Conference (DAC)",
+      "releaseDate": "2025-06",
+      "url": "https://doi.org/10.1109/DAC63849.2025.11133014",
+      "summary": "Proposed a novel in-memory computing architecture with analog accumulator and in-memory ADC for high energy efficiency and low latency applications."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "A Pixel-Level, High Dynamic, Low-Power, Digital-Readout-Integrated Circuit With Hybrid Analog-to-Digital Converter for Infrared Focal-Plane Arrays",
+      "publisher": "IEEE Sensors Letters",
+      "releaseDate": "2023-08",
+      "url": "https://doi.org/10.1109/LSENS.2023.3290983",
+      "summary": "Developed a hybrid ADC architecture for infrared focal-plane arrays achieving high dynamic range with low power consumption."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Full-Stack Engineering",
+      "level": "Proficient",
+      "icon": "fa-solid fa-microchip",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Hardware Design",
+        "Firmware Development",
+        "System Integration"
+      ]
+    },
+    {
+      "name": "Hardware Design Tools",
+      "level": "Expert",
+      "icon": "fa-solid fa-toolbox",
+      "keywords": [
+        "Cadence Virtuoso",
+        "Cadence Innovus", 
+        "Synopsys Design Compiler",
+        "Mentor Graphics ModelSim",
+        "Xilinx Vivado",
+        "Cadence Allegro",
+        "Altium Designer"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Proficient",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Verilog",
+        "System Verilog",
+        "C",
+        "C++",
+        "Python", 
+        "LaTeX",
+        "Matlab"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese (Mandarin)",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -163,38 +157,44 @@
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Electronics DIY",
+      "icon": "fa-solid fa-robot",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "PCB Design",
+        "Embedded Systems",
+        "Robotics",
+        "Open Source Hardware"
+      ]
+    },
+    {
+      "name": "Research",
+      "icon": "fa-solid fa-flask",
+      "keywords": [
+        "Neuromorphic Computing",
+        "Brain-Machine Interface",
+        "Low-power IC Design",
+        "In-memory Computing"
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
+
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Neuromorphic BMI Chip Development",
+      "summary": "Development of a neuromorphic computing-based Brain-Machine Interface chip with Spiking Neural Networks for real-time brain signal processing.",
+      "highlights": ["Spiking Neural Networks", "Real-time EEG Processing", "Low-power Design"],
+      "startDate": "2024-09",
+      "endDate": "Present",
+      "url": "/projects/1-project/"
+    },
+    {
+      "name": "Ultra-Low Power Multi-channel Signal Acquisition System",
+      "summary": "Design of ultra-low noise, ultra-low power circuits for multi-channel EEG signal acquisition using Delta modulation-based analog pulse conversion.",
+      "highlights": ["Delta Modulation", "Analog Pulse Conversion", "In-memory Computation"],
+      "startDate": "2024-09",
+      "endDate": "Present",
+      "url": "/projects/2-project/"
     }
   ]
+
 }
