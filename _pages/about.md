@@ -36,7 +36,7 @@ latest_posts:
 *Ph.D in Electronic Engineering*  
 Department of Electronic Engineering
 
-**University of Chinese Academy of Sciences** | 2021/06-2024/06  
+**University of Chinese Academy of Sciences** | 2021/09-2024/06  
 *Master's Degree in Microelectronics and Solid-State Electronics*  
 Shanghai Institute of Microsystem and Information Technology
 
