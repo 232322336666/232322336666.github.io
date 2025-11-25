@@ -62,7 +62,7 @@ I have a strong passion for electronics DIY and have successfully replicated sev
 - **[Hanwen Keyboard]({{ '/outcomes/' | relative_url }}#hanwen)** - A custom mechanical keyboard with hot-swap PCB
 - **[Reuleaux Triangle]({{ '/outcomes/' | relative_url }}#lailuo)** - A triangular robotic platform with ROS integration
 
-These projects have enhanced my practical skills in PCB design, embedded programming, and mechanical integration. Visit my [Projects & Outcomes]({{ '/outcomes/' | relative_url }}) page for detailed documentation and build logs.
+These projects have enhanced my practical skills in PCB design, embedded programming, and mechanical integration. Visit my [Projects & Outcomes]({{ '/outcomes/' | relative_url }}) page for detailed information.
 ## Awards and Honors
 
 - **First Prize**, RoboMaster 2020 Final Competition | 2020/08
