@@ -60,7 +60,7 @@ I have a strong passion for electronics DIY and have successfully replicated sev
 
 - **[HoloCubic]({{ '/outcomes/' | relative_url }}#holocubic)** - A mini smart desk display with ESP32-S3
 - **[Hanwen Keyboard]({{ '/outcomes/' | relative_url }}#hanwen)** - A custom mechanical keyboard with hot-swap PCB
-- **[Lailuo Triangle]({{ '/outcomes/' | relative_url }}#lailuo)** - A triangular robotic platform with ROS integration
+- **[Reuleaux Triangle]({{ '/outcomes/' | relative_url }}#lailuo)** - A triangular robotic platform with ROS integration
 
 These projects have enhanced my practical skills in PCB design, embedded programming, and mechanical integration. Visit my [Projects & Outcomes]({{ '/outcomes/' | relative_url }}) page for detailed documentation and build logs.
 ## Awards and Honors
