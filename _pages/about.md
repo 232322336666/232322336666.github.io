@@ -36,7 +36,7 @@ latest_posts:
 *Ph.D in Electronic Engineering*  
 Department of Electronic Engineering
 
-**University of Chinese Academy of Sciences** | 2021/06-2024/06  
+**University of Chinese Academy of Sciences** | 2021/09-2024/06  
 *Master's Degree in Microelectronics and Solid-State Electronics*  
 Shanghai Institute of Microsystem and Information Technology
 
@@ -60,9 +60,9 @@ I have a strong passion for electronics DIY and have successfully replicated sev
 
 - **[HoloCubic]({{ '/outcomes/' | relative_url }}#holocubic)** - A mini smart desk display with ESP32-S3
 - **[Hanwen Keyboard]({{ '/outcomes/' | relative_url }}#hanwen)** - A custom mechanical keyboard with hot-swap PCB
-- **[Lailuo Triangle]({{ '/outcomes/' | relative_url }}#lailuo)** - A triangular robotic platform with ROS integration
+- **[Reuleaux Triangle]({{ '/outcomes/' | relative_url }}#lailuo)** - A triangular robotic platform with ROS integration
 
-These projects have enhanced my practical skills in PCB design, embedded programming, and mechanical integration. Visit my [Projects & Outcomes]({{ '/outcomes/' | relative_url }}) page for detailed documentation and build logs.
+These projects have enhanced my practical skills in PCB design, embedded programming, and mechanical integration. Visit my [Projects & Outcomes]({{ '/outcomes/' | relative_url }}) page for detailed information.
 ## Awards and Honors
 
 - **First Prize**, RoboMaster 2020 Final Competition | 2020/08

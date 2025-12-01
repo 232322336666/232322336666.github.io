@@ -65,7 +65,7 @@ nav_order: 4
 </section>
 
 <section id="lailuo">
-<h5>Reilow - The Birth of a Reilow Triangle</h5>
+<h5>Reuleaux - The Birth of a Reuleaux Triangle</h5>
 <div class="row justify-content-center">
   <div class="col-md-8 mb-4">
     <a href="https://www.bilibili.com/video/BV1PF411u7RU/?spm_id_from=333.1387.homepage.video_card.click" target="_blank">
