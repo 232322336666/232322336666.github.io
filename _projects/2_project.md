@@ -13,5 +13,4 @@ This project involves the engineering of ultra-low noise, ultra-low power circui
 
 The design significantly minimizes power usage and reduces system complexity while maintaining high signal integrity. Further integration of nonlinear in-memory computation techniques enhances processing speed, reduces noise, and effectively overcomes the power and latency limitations typically associated with conventional digital circuits.
 
-
 The developed solution provides a scalable, high-performance architecture suitable for next-generation neurotechnology applications, particularly in scenarios requiring extended battery life and reliable signal acquisition in resource-constrained environments.

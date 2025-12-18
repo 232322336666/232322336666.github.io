@@ -6,6 +6,7 @@ description: My electronics DIY, robotics, and IC design projects.
 nav: true
 nav_order: 4
 ---
+
 ## IC Design
 
 <div class="row">
@@ -32,10 +33,10 @@ nav_order: 4
   </div>
   <div class="col-md-4 mb-4">
     <img src="/assets/img/projects/hero.jpg" class="img-fluid rounded" alt="The hero">
-    <p class="text-center mt-2">The hero from ROBOMASTER</small></p>
+    <p class="text-center mt-2">The hero from ROBOMASTER</p>
   </div>
-    <div class="col-md-4 mb-4">
-    <img src="/assets/img/projects/smartcar.jpg" class="img-fluid rounded" alt="The hero">
+  <div class="col-md-4 mb-4">
+    <img src="/assets/img/projects/smartcar.jpg" class="img-fluid rounded" alt="The smartcar">
     <p class="text-center mt-2">The smartcar from SmartCar Competition</p>
   </div>
 </div>
@@ -43,36 +44,36 @@ nav_order: 4
 ## Electronics DIY Projects
 
 <section id="holocubic">
-<h5>Holocubic- Mini Smart Desktop Monitor Based on ESP32-S3</h5>
-<div class="row justify-content-center">
-  <div class="col-md-8 mb-4">
-    <a href="https://www.bilibili.com/video/BV1X44y1Y7FL/?spm_id_from=333.1387.homepage.video_card.click" target="_blank">
-      <img src="/assets/img/projects/holocubic.jpg" class="img-fluid rounded" alt="HoloCubic Project">
-    </a>
+  <h5>Holocubic- Mini Smart Desktop Monitor Based on ESP32-S3</h5>
+  <div class="row justify-content-center">
+    <div class="col-md-8 mb-4">
+      <a href="https://www.bilibili.com/video/BV1X44y1Y7FL/?spm_id_from=333.1387.homepage.video_card.click" target="_blank">
+        <img src="/assets/img/projects/holocubic.jpg" class="img-fluid rounded" alt="HoloCubic Project">
+      </a>
+    </div>
   </div>
-</div>
 </section>
 
 <section id="hanwen">
-<h5>Hanwen- Super cool custom keyboard </h5>
-<div class="row justify-content-center">
-  <div class="col-md-8 mb-4">
-    <a href="https://www.bilibili.com/video/BV1SccBeSEgu/?spm_id_from=333.1387.homepage.video_card.click" target="_blank">
-      <img src="/assets/img/projects/hanwen.jpg" class="img-fluid rounded" alt="Hanwen Keyboard">
-    </a>
+  <h5>Hanwen- Super cool custom keyboard</h5>
+  <div class="row justify-content-center">
+    <div class="col-md-8 mb-4">
+      <a href="https://www.bilibili.com/video/BV1SccBeSEgu/?spm_id_from=333.1387.homepage.video_card.click" target="_blank">
+        <img src="/assets/img/projects/hanwen.jpg" class="img-fluid rounded" alt="Hanwen Keyboard">
+      </a>
+    </div>
   </div>
-</div>
 </section>
 
 <section id="lailuo">
-<h5>Reuleaux - The Birth of a Reuleaux Triangle</h5>
-<div class="row justify-content-center">
-  <div class="col-md-8 mb-4">
-    <a href="https://www.bilibili.com/video/BV1PF411u7RU/?spm_id_from=333.1387.homepage.video_card.click" target="_blank">
-      <img src="/assets/img/projects/lailuo.jpg" class="img-fluid rounded" alt="Lailuo Triangle">
-    </a>
+  <h5>Reuleaux - The Birth of a Reuleaux Triangle</h5>
+  <div class="row justify-content-center">
+    <div class="col-md-8 mb-4">
+      <a href="https://www.bilibili.com/video/BV1PF411u7RU/?spm_id_from=333.1387.homepage.video_card.click" target="_blank">
+        <img src="/assets/img/projects/lailuo.jpg" class="img-fluid rounded" alt="Lailuo Triangle">
+      </a>
+    </div>
   </div>
-</div>
 </section>
 
 <style>
@@ -83,4 +84,3 @@ nav_order: 4
   transform: scale(1.02);
 }
 </style>
-

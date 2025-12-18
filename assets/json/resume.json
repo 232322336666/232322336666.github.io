@@ -80,7 +80,7 @@
       "summary": "Top 10 innovation teams annually in CSU"
     },
     {
-      "title": "Excellence Award, China Postgraduate IC Innovation Competition",
+      "title": "Excellense Award, China Postgraduate IC Innovation Competition",
       "date": "2023-08",
       "awarder": "Chinese Institute of Electronics",
       "url": "",
@@ -120,7 +120,7 @@
       "icon": "fa-solid fa-toolbox",
       "keywords": [
         "Cadence Virtuoso",
-        "Cadence Innovus", 
+        "Cadence Innovus",
         "Synopsys Design Compiler",
         "Mentor Graphics ModelSim",
         "Xilinx Vivado",
@@ -137,7 +137,7 @@
         "System Verilog",
         "C",
         "C++",
-        "Python", 
+        "Python",
         "LaTeX",
         "Matlab"
       ]
@@ -177,7 +177,6 @@
       ]
     }
   ],
-
   "projects": [
     {
       "name": "Neuromorphic BMI Chip Development",
@@ -196,5 +195,4 @@
       "url": "/projects/2-project/"
     }
   ]
-
 }
