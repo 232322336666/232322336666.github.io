@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Join the Brainsys lab of City University of Hongkong.
+Join the Brainsys lab of City University of Hongkong supervised by Prof.Arindam BASU.
