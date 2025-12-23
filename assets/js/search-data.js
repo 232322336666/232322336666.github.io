@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-participated-in-dac-2025-as-third-author",
+        },{id: "post-published-as-a-collaborator-on-jssc-tbiocas",
+        
+          title: "Published as a collaborator on JSSC TBioCAS",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/plotly/";
+          
+        },
+      },{id: "post-participated-in-dac-2025-as-third-author",
         
           title: "Participated in DAC 2025 as third author",
         
@@ -53,8 +64,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-join-the-brainsys-lab-of-city-university-of-hongkong",
-          title: 'Join the Brainsys lab of City University of Hongkong.',
+            },},{id: "news-join-the-brainsys-lab-of-city-university-of-hongkong-supervised-by-prof-arindam-basu",
+          title: 'Join the Brainsys lab of City University of Hongkong supervised by Prof.Arindam BASU....',
           description: "",
           section: "News",},{id: "projects-neuromorphic-bmi-chip-development",
           title: 'Neuromorphic BMI Chip Development',
