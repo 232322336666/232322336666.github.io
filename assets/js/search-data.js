@@ -37,15 +37,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-published-as-a-collaborator-on-jssc-tbiocas",
+        },{id: "post-published-as-papers-as-co-first-author-on-iscas2026",
         
-          title: "Published as a collaborator on JSSC TBioCAS",
+          title: "Published as papers as co-first author on ISCAS2026",
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/plotly/";
+            window.location.href = "/blog/2026/plotly/";
           
         },
       },{id: "post-published-as-a-collaborator-on-jssc-tbiocas",
