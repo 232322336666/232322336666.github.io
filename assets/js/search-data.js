@@ -106,11 +106,11 @@ ninja.data = [{
           window.open("mailto:%7A%68%65%6E%67%6E%61%66%75%32-%63@%6D%79.%63%69%74%79%75.%65%64%75.%68%6B", "_blank");
         },
       },{
-        id: 'social-semanticscholar',
-        title: 'Semantic Scholar',
+        id: 'social-scholar',
+        title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.semanticscholar.org/author/ItSWdHAAAAAJ&hl=en", "_blank");
+          window.open("https://scholar.google.com/citations?user=ItSWdHAAAAAJ&hl=en", "_blank");
         },
       },{
       id: 'light-theme',
