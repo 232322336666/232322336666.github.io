@@ -48,6 +48,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/plotly/";
           
         },
+      },{id: "post-published-as-a-collaborator-on-jssc-tbiocas",
+        
+          title: "Published as a collaborator on JSSC TBioCAS",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/plotly/";
+          
+        },
       },{id: "post-participated-in-dac-2025-as-third-author",
         
           title: "Participated in DAC 2025 as third author",
@@ -66,6 +77,9 @@ ninja.data = [{
               window.location.href = "/books/the_godfather/";
             },},{id: "news-join-the-brainsys-lab-of-city-university-of-hongkong-supervised-by-prof-arindam-basu",
           title: 'Join the Brainsys lab of City University of Hongkong supervised by Prof.Arindam BASU....',
+          description: "",
+          section: "News",},{id: "news-an-failure-submission-to-vlsi2026-was-unsuccessful-but-i-will-continue-to-try",
+          title: 'An failure submission to VLSI2026 was unsuccessful, but I will continue to try....',
           description: "",
           section: "News",},{id: "projects-neuromorphic-bmi-chip-development",
           title: 'Neuromorphic BMI Chip Development',
@@ -92,18 +106,11 @@ ninja.data = [{
           window.open("mailto:%7A%68%65%6E%67%6E%61%66%75%32-%63@%6D%79.%63%69%74%79%75.%65%64%75.%68%6B", "_blank");
         },
       },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
+        id: 'social-semanticscholar',
+        title: 'Semantic Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/", "_blank");
-        },
-      },{
-        id: 'social-wechat_qr',
-        title: 'Wechat_qr',
-        section: 'Socials',
-        handler: () => {
-          window.open("", "_blank");
+          window.open("https://www.semanticscholar.org/author/ItSWdHAAAAAJ&hl=en", "_blank");
         },
       },{
       id: 'light-theme',
