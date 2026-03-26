@@ -3,9 +3,8 @@
 # -----------------------------------------------------------------------------
 
 title: FU Zhengnan # the website title (if blank, full name will be used instead)
-first_name: Fu
-middle_name: Zeno
-last_name: Zhengnan
+first_name: Zhengnan
+last_name: Fu
 contact_note: >
   Every dog has his day.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
