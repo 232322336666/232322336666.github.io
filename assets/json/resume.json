@@ -101,14 +101,13 @@
       "releaseDate": "2023-08",
       "url": "https://doi.org/10.1109/LSENS.2023.3290983",
       "summary": "Developed a hybrid ADC architecture for infrared focal-plane arrays achieving high dynamic range with low power consumption."
-    }
-    
+    },
     {
       "name": "A 33.6–136.2-TOPS/W Nonlinear Analog Computing-in-Memory Macro for Multi-Bit LSTM Accelerator in 65-nm CMOS",
       "publisher": "IEEE Journal of Solid-State Circuits",
       "releaseDate": "2025",
       "url": "https://doi.org/10.1109/JSSC.2025.3638445",
-    }
+    },
     {
       "name": "A 1024-Channel 0.8V 23.9-nW/Channel Event-based Compute In-memory Neural Spike Detector",
       "publisher": "IEEE Transactions on Biomedical Circuits and Systems",
