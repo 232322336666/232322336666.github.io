@@ -263,8 +263,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Zhengnan]
-  first_name: [Fu]
+  last_name: [Fu]
+  first_name: [Zhengnan]
 
   style: apa
   locale: en
