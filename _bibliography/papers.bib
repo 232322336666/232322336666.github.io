@@ -58,3 +58,46 @@
   preview={TBCAS.jpg},
   selected={true}
   }
+
+
+@online{liEventDrivenESkinSystem2026,
+  title = {An {{Event-Driven E-Skin System}} with {{Dynamic Binary Scanning}} and Real Time {{SNN Classification}}},
+  author = {Li, Gaishan* and Fu, Zhengnan* and Tripathi, Anubhab and Yang, Junyi and Basu, Arindam},
+  date = {2026-03-11},
+  eprint = {2603.10537},
+  eprinttype = {arXiv},
+  eprintclass = {cs},
+  doi = {10.48550/arXiv.2603.10537},
+  url = {http://arxiv.org/abs/2603.10537},
+  urldate = {2026-03-27},
+  abstract = {This paper presents a novel hardware system for high-speed, event-sparse sampling-based electronic skin (e-skin) that integrates sensing and neuromorphic computing. The system is built around a 16×16 piezoresistive tactile array with frontend and introduces a event-based binary scan search strategy to classify the digits. This event-driven strategy achieves a 12.8× reduction in scan counts, a 38.2× data compression rate and a 28.4× equivalent dynamic range, a 99\% data sparsity, drastically reducing the data acquisition overhead. The resulting sparse data stream is processed by a multi-layer convolutional spiking neural network (Conv-SNN) implemented on an FPGA, which requires only 65\% of the computation and 15.6\% of the weight storage relative to a CNN. Despite these significant efficiency gains, the system maintains a high classification accuracy of 92.11\% for real-time handwritten digit recognition. Furthermore, a real neuromorphic tactile dataset using Address Event Representation (AER) is constructed. This work demonstrates a fully integrated, event-driven pipeline from analog sensing to neuromorphic classification, offering an efficient solution for robotic perception and human-computer interaction.},
+  langid = {english},
+  pubstate = {prepublished},
+  keywords = {Computer Science - Neural and Evolutionary Computing},
+  selected={true}
+}
+
+@article{fuLiveDemonstrationEventDriven,
+  title = {Live {{Demonstration}}: {{An Event-Driven E-Skin System}} with {{Dynamic Binary Scanning}} and Real Time {{SNN Classification}}},
+  author = {Fu, Zhengnan* and Li, Gaishan* and Tripathi, Anubhab and Basu, Arindam},
+  abstract = {This demonstration presents a novel hardware system for high-speed, high-data-efficiency tactile sensing and realtime classification. The system uses a 16×16 high-impedance tactile sensor array and an event-driven strategy with a dynamic binary scanning algorithm to classify the digits. This approach leverages 99\% data sparsity to achieve a 12.8× reduction in scan counts and a 38.2× data compression rate and a 28.4× dynamic range increase, significantly lowering system energy consumption. The resulting sparse data streams are processed by a multi-layer Convolutional Spiking Neural Network (ConvSNN) on FPGA, which requires only 65\% of the computation and 15.6\% of the weight storage relative to a CNN, while maintaining 92.11\% accuracy for real-time handwritten digit recognition. This live demo showcases a complete pipeline from analog tactile sensing to neuromorphic classification, highlighting the efficiency of event-driven systems for next-generation robotic perception and human-computer interaction.},
+  langid = {english},
+}
+
+@online{tripathiSTEMNISTSpikingTactile2026,
+  title = {{{STEMNIST}}: {{Spiking Tactile Extended MNIST Neuromorphic Dataset}}},
+  shorttitle = {{{STEMNIST}}},
+  author = {Tripathi, Anubhab and Gaishan, Li and Fu, Zhengnan and Bartolozzi, Chiara and Shi, Bert E. and Basu, Arindam},
+  date = {2026-01-04},
+  eprint = {2601.01658},
+  eprinttype = {arXiv},
+  eprintclass = {cs},
+  doi = {10.48550/arXiv.2601.01658},
+  url = {http://arxiv.org/abs/2601.01658},
+  urldate = {2026-03-27},
+  abstract = {Tactile sensing is essential for robotic manipulation, prosthetics and assistive technologies, yet neuromorphic tactile datasets remain limited compared to their visual counterparts. We introduce STEMNIST, a large-scale neuromorphic tactile dataset extending ST-MNIST from 10 digits to 35 alphanumeric classes (uppercase letters A–Z and digits 1–9), providing a challenging benchmark for event-based haptic recognition. The dataset comprises 7,700 samples collected from 34 participants using a custom 16×16 tactile sensor array operating at 120 Hz, encoded as 1,005,592 spike events through adaptive temporal differentiation. Following EMNIST’s visual character recognition protocol, STEMNIST addresses the critical gap between simplified digit classification and real-world tactile interaction scenarios requiring alphanumeric discrimination. Baseline experiments using conventional CNNs (90.91\% test accuracy) and spiking neural networks (89.16\%) establish performance benchmarks. The dataset’s event-based format, unrestricted spatial variability and rich temporal structure makes it suitable for testing neuromorphic hardware and bio-inspired learning algorithms. STEMNIST enables reproducible evaluation of tactile recognition systems and provides a foundation for advancing energy-efficient neuromorphic perception in robotics, biomedical engineering and human-machine interfaces. The dataset, documentation and codes are publicly available to accelerate research in neuromorphic tactile computing.},
+  langid = {english},
+  pubstate = {prepublished},
+  keywords = {Computer Science - Neural and Evolutionary Computing},
+}
+
