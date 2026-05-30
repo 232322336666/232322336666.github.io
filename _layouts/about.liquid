@@ -64,6 +64,18 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
+    <!-- Personal Projects & DIY -->
+    {% if page.projects %}
+      <h2>Personal Projects & DIY</h2>
+      {{ page.projects | markdownify }}
+    {% endif %}
+
+    <!-- Awards and Honors -->
+    {% if page.awards %}
+      <h2>Awards and Honors</h2>
+      {{ page.awards | markdownify }}
+    {% endif %}
+
     <!-- Social -->
     {% if page.social %}
       <div class="social">

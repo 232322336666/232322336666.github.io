@@ -30,6 +30,20 @@ latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+
+projects: |
+  I have a strong passion for electronics DIY and have successfully replicated several renowned open-source projects:
+  - **[HoloCubic](/outcomes/#holocubic)** - A mini smart desk display with ESP32-S3
+  - **[Hanwen Keyboard](/outcomes/#hanwen)** - A custom mechanical keyboard with hot-swap PCB
+  - **[Reuleaux Triangle](/outcomes/#lailuo)** - A triangular robotic platform with ROS integration
+
+  These projects have enhanced my practical skills in PCB design, embedded programming, and mechanical integration. Visit my [Projects & Outcomes](/outcomes/) page for detailed information.
+
+awards: |
+  - **First Prize**, RoboMaster 2020 Final Competition | 2020/08
+  - **First Prize**, RoboMaster 2020 Competition in Embedded System (Ranked 2nd) | 2020/08
+  - **Greimey Innovation Practice Team Award**, Central South University (Ten winners annually) | 2020/12
+  - **Excellence Award**, China Postgraduate IC Innovation Competition | 2023/08
 ---
 
 ## Education
@@ -58,19 +72,3 @@ Engineering ultra-low noise, ultra-low power circuits for multi-channel iBMI sig
 
 Leading the development of a neuromorphic computing-based Brain-Machine Interface (BMI) chip that incorporates Spiking Neural Networks (SNN) to efficiently decode and process brain signals in real-time. Focused on low-power, high-integration designs to enable multi-channel EEG signal acquisition with high fidelity. This innovative approach significantly reduces power consumption while maintaining signal resolution, contributing to advancements in neurorehabilitation, mobile healthcare, and human-computer interaction for wearable and portable devices.
 
-## Personal Projects & DIY
-
-I have a strong passion for electronics DIY and have successfully replicated several renowned open-source projects:
-
-- **[HoloCubic]({{ '/outcomes/' | relative_url }}#holocubic)** - A mini smart desk display with ESP32-S3
-- **[Hanwen Keyboard]({{ '/outcomes/' | relative_url }}#hanwen)** - A custom mechanical keyboard with hot-swap PCB
-- **[Reuleaux Triangle]({{ '/outcomes/' | relative_url }}#lailuo)** - A triangular robotic platform with ROS integration
-
-These projects have enhanced my practical skills in PCB design, embedded programming, and mechanical integration. Visit my [Projects & Outcomes]({{ '/outcomes/' | relative_url }}) page for detailed information.
-
-## Awards and Honors
-
-- **First Prize**, RoboMaster 2020 Final Competition | 2020/08
-- **First Prize**, RoboMaster 2020 Competition in Embedded System (Ranked 2nd) | 2020/08
-- **Greimey Innovation Practice Team Award**, Central South University (Ten winners annually) | 2020/12
-- **Excellence Award**, China Postgraduate IC Innovation Competition | 2023/08
