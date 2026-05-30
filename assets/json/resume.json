@@ -114,13 +114,6 @@
       "releaseDate": "2025",
       "url": "https://doi.org/10.1109/TBCAS.2025.3642865"
     },
-    {
-      "name": "A 32-Channel 3.53-μW per Channel Brain-machine Interface SoC Featuring Dual-threshold Delta-modulation, In-memory Spike Detection and Bi-SNN based Motor Decoding",
-      "publisher": "2025 IEEE European Solid-State Electronics Research Conference (ESSERC)",
-      "releaseDate": "2025",
-      "url": "",
-      "summary": "Co-first author. Proposed a 32-channel BMI SoC with dual-threshold delta modulation, in-memory spike detection and biologically-inspired SNN motor decoding."
-    }
   ],
   "skills": [
     {
