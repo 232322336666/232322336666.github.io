@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-published-as-papers-as-co-first-author-on-iscas2026",
+        },{id: "post-esserc-2026-paper-accepted",
+        
+          title: "ESSERC 2026 Paper Accepted",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/esserc/";
+          
+        },
+      },{id: "post-published-as-papers-as-co-first-author-on-iscas2026",
         
           title: "Published as papers as co-first author on ISCAS2026",
         
@@ -78,8 +89,8 @@ ninja.data = [{
             },},{id: "news-join-the-brainsys-lab-of-city-university-of-hongkong-supervised-by-prof-arindam-basu",
           title: 'Join the Brainsys lab of City University of Hongkong supervised by Prof.Arindam BASU....',
           description: "",
-          section: "News",},{id: "news-our-paper-on-32-channel-bmi-soc-has-been-accepted-by-esserc-2025-co-first-author",
-          title: 'Our paper on 32-Channel BMI SoC has been accepted by ESSERC 2025 (co-first...',
+          section: "News",},{id: "news-our-paper-on-32-channel-bmi-soc-has-been-accepted-by-esserc-2026-co-first-author",
+          title: 'Our paper on 32-Channel BMI SoC has been accepted by ESSERC 2026 (co-first...',
           description: "",
           section: "News",},{id: "projects-neuromorphic-bmi-chip-development",
           title: 'Neuromorphic BMI Chip Development',
