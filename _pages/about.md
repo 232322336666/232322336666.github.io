@@ -62,13 +62,11 @@ School of Physics and Electronics
 
 ## Research Focus
 
-My current research interests center on:
+### Ultra-Low Power Signal Acquisition & In-Memory Computing
 
-### Multi-channel Signal Acquisition and Ultra-Low Power Circuit Design
-
-Engineering ultra-low noise, ultra-low power circuits for multi-channel iBMI signal acquisition, replacing traditional Nyquist-sampling ADC with Delta modulation-based analog pulse conversion for signal sparse coding. This design minimizes power usage and reduces system complexity. Further integrated nonlinear in-memory computation techniques, enhancing processing speed, reducing noise, and overcoming the power and latency limitations typically found in conventional digital circuits. The solution provides a scalable, high-performance architecture suitable for next-generation neurotechnology applications.
+Designing ultra-low power circuits for multi-channel iBMI signal acquisition using Delta modulation-based sparse coding, integrated with nonlinear in-memory computation for high energy efficiency and low latency.
 
 ### Neuromorphic Computing for BMI Systems
 
-Leading the development of a neuromorphic computing-based Brain-Machine Interface (BMI) chip that incorporates Spiking Neural Networks (SNN) to efficiently decode and process brain signals in real-time. Focused on low-power, high-integration designs to enable multi-channel EEG signal acquisition with high fidelity. This innovative approach significantly reduces power consumption while maintaining signal resolution, contributing to advancements in neurorehabilitation, mobile healthcare, and human-computer interaction for wearable and portable devices.
+Developing a neuromorphic BMI chip with Spiking Neural Networks for real-time brain signal decoding, targeting low-power wearable neurorehabilitation and human-computer interaction applications.
 
