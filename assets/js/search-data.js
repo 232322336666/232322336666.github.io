@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-esserc-2026-paper-accepted",
+        },{id: "post-isscc-2027-submission-unsuccessful",
+        
+          title: "ISSCC 2027 Submission Unsuccessful",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/isscc-2027/";
+          
+        },
+      },{id: "post-esserc-2026-paper-accepted",
         
           title: "ESSERC 2026 Paper Accepted",
         
@@ -78,7 +89,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/plotly/";
+            window.location.href = "/blog/2025/dac-2025/";
           
         },
       },{id: "books-the-godfather",
