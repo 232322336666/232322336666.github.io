@@ -10,6 +10,12 @@ nav_order: 4
 ## IC Design
 
 <div class="row">
+  <div class="col-md-4 mb-4" id="esserc-2026">
+    <a href="{{ '/assets/img/projects/esserc2026-die.jpg' | relative_url }}">
+      <img src="{{ '/assets/img/projects/esserc2026-die.jpg' | relative_url }}" class="img-fluid rounded" alt="Die micrograph of the 32-channel brain-machine interface SoC, ESSERC 2026" width="1313" height="1751" style="width: 100%; height: auto; aspect-ratio: 4 / 3; object-fit: cover" loading="lazy">
+    </a>
+    <p class="text-center mt-2">32-Channel Brain-Machine Interface SoC<br><a href="https://arxiv.org/abs/2606.01776">ESSERC 2026 · Paper</a></p>
+  </div>
   <div class="col-md-4 mb-4">
     <img src="/assets/img/projects/adc.png" class="img-fluid rounded" alt="ADC Chip Design">
     <p class="text-center mt-2">14bit SAR-ADC Chip Design</p>
