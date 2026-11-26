@@ -12,17 +12,6 @@ chips:
       - label: Full-size die image
         url: /assets/img/projects/esserc2026-die.jpg
 
-  - id: nonlinear-analog-cim
-    title: Nonlinear Analog Computing-in-Memory Macro
-    description: A 65 nm CMOS macro for multi-bit LSTM acceleration with an energy efficiency of 33.6–136.2 TOPS/W.
-    image: /assets/img/publication_preview/JSSC.jpg
-    alt: Preview of the nonlinear analog computing-in-memory paper
-    width: 345
-    height: 146
-    links:
-      - label: IEEE JSSC paper
-        url: https://doi.org/10.1109/JSSC.2025.3638445
-
   - id: sar-adc
     title: 14-Bit SAR ADC Chip Design
     image: /assets/img/projects/adc.png

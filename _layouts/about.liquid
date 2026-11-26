@@ -21,6 +21,34 @@ layout: default
       </section>
     {% endif %}
 
+    {% if page.education %}
+      <section aria-labelledby="education">
+        <h2 id="education">Education</h2>
+        <ul class="education-list" role="list">
+          {% for entry in page.education %}
+            <li class="education-entry">
+              <img
+                class="education-crest"
+                src="{{ entry.crest | prepend: '/assets/img/education/' | relative_url }}"
+                alt=""
+                width="48"
+                height="48"
+                loading="lazy"
+              >
+              <div>
+                <div class="education-institution">
+                  <strong>{{ entry.institution | escape }}</strong>
+                  <span>{{ entry.dates | escape }}</span>
+                </div>
+                <em>{{ entry.degree | escape }}</em><br>
+                {{ entry.department | escape }}
+              </div>
+            </li>
+          {% endfor %}
+        </ul>
+      </section>
+    {% endif %}
+
     {% if page.selected_papers %}
       <h2>
         <a href="{{ '/publications/' | relative_url }}">Selected Publications</a>

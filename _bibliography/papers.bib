@@ -88,28 +88,33 @@
   }
 
 
-@online{liEventDrivenESkinSystem2026,
+@inproceedings{liEventDrivenESkinSystem2026,
   title = {An {{Event-Driven E-Skin System}} with {{Dynamic Binary Scanning}} and Real Time {{SNN Classification}}},
   author = {Li*, Gaishan and Fu*, Zhengnan and Tripathi, Anubhab and Yang, Junyi and Basu, Arindam},
+  booktitle = {2026 IEEE International Symposium on Circuits and Systems (ISCAS)},
+  pages = {3506--3510},
   date = {2026-03-11},
   year = {2026},
   eprint = {2603.10537},
   eprinttype = {arXiv},
   eprintclass = {cs},
-  doi = {10.48550/arXiv.2603.10537},
+  doi = {10.1109/ISCAS66217.2026.11563017},
+  arxiv = {2603.10537},
   url = {http://arxiv.org/abs/2603.10537},
   urldate = {2026-03-27},
   abstract = {This paper presents a novel hardware system for high-speed, event-sparse sampling-based electronic skin (e-skin) that integrates sensing and neuromorphic computing. The system is built around a 16×16 piezoresistive tactile array with frontend and introduces a event-based binary scan search strategy to classify the digits. This event-driven strategy achieves a 12.8× reduction in scan counts, a 38.2× data compression rate and a 28.4× equivalent dynamic range, a 99\% data sparsity, drastically reducing the data acquisition overhead. The resulting sparse data stream is processed by a multi-layer convolutional spiking neural network (Conv-SNN) implemented on an FPGA, which requires only 65\% of the computation and 15.6\% of the weight storage relative to a CNN. Despite these significant efficiency gains, the system maintains a high classification accuracy of 92.11\% for real-time handwritten digit recognition. Furthermore, a real neuromorphic tactile dataset using Address Event Representation (AER) is constructed. This work demonstrates a fully integrated, event-driven pipeline from analog sensing to neuromorphic classification, offering an efficient solution for robotic perception and human-computer interaction.},
   langid = {english},
-  pubstate = {prepublished},
   keywords = {Computer Science - Neural and Evolutionary Computing},
   preview = {ISCAS2026.webp},
   selected={true}
 }
 
-@article{fuLiveDemonstrationEventDriven,
+@inproceedings{fuLiveDemonstrationEventDriven,
   title = {Live {{Demonstration}}: {{An Event-Driven E-Skin System}} with {{Dynamic Binary Scanning}} and Real Time {{SNN Classification}}},
   author = {Fu*, Zhengnan and Li*, Gaishan and Tripathi, Anubhab and Basu, Arindam},
+  booktitle = {2026 IEEE International Symposium on Circuits and Systems (ISCAS)},
+  pages = {1679},
+  doi = {10.1109/ISCAS66217.2026.11562795},
   abstract = {This demonstration presents a novel hardware system for high-speed, high-data-efficiency tactile sensing and realtime classification. The system uses a 16×16 high-impedance tactile sensor array and an event-driven strategy with a dynamic binary scanning algorithm to classify the digits. This approach leverages 99\% data sparsity to achieve a 12.8× reduction in scan counts and a 38.2× data compression rate and a 28.4× dynamic range increase, significantly lowering system energy consumption. The resulting sparse data streams are processed by a multi-layer Convolutional Spiking Neural Network (ConvSNN) on FPGA, which requires only 65\% of the computation and 15.6\% of the weight storage relative to a CNN, while maintaining 92.11\% accuracy for real-time handwritten digit recognition. This live demo showcases a complete pipeline from analog tactile sensing to neuromorphic classification, highlighting the efficiency of event-driven systems for next-generation robotic perception and human-computer interaction.},
   langid = {english},
   preview={ISCAS2026.webp},

@@ -11,6 +11,23 @@ subtitle: |
 intro: |
   I am a PhD student in electronic engineering at City University of Hong Kong. My research focuses on ultra-low-power circuits, analog in-memory computing, and neuromorphic chips for brain–machine interfaces.
 
+education:
+  - institution: City University of Hong Kong
+    dates: 2024/09-2028/06 (Expected)
+    degree: Ph.D in Electronic Engineering
+    department: Department of Electronic Engineering
+    crest: cityu-hk.svg
+  - institution: University of Chinese Academy of Sciences
+    dates: 2021/09-2024/06
+    degree: Master's Degree in Microelectronics and Solid-State Electronics
+    department: Shanghai Institute of Microsystem and Information Technology
+    crest: ucas.png
+  - institution: Central South University
+    dates: 2017/09-2021/06
+    degree: Bachelor's Degree in Electronic Information Science and Technology
+    department: School of Physics and Electronics
+    crest: csu.png
+
 profile:
   image: me.jpg
   more_info: |
@@ -46,20 +63,6 @@ awards: |
   - **Greimey Innovation Practice Team Award**, Central South University (Ten winners annually) | 2020/12
   - **Excellence Award**, China Postgraduate IC Innovation Competition | 2023/08
 ---
-
-## Education
-
-**City University of Hong Kong** | 2024/09-2028/06 (Expected)<br>
-_Ph.D in Electronic Engineering_<br>
-Department of Electronic Engineering
-
-**University of Chinese Academy of Sciences** | 2021/09-2024/06<br>
-_Master's Degree in Microelectronics and Solid-State Electronics_<br>
-Shanghai Institute of Microsystem and Information Technology
-
-**Central South University** | 2017/09-2021/06<br>
-_Bachelor's Degree in Electronic Information Science and Technology_<br>
-School of Physics and Electronics
 
 ## Research Focus
 

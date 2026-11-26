@@ -382,3 +382,40 @@ html[data-theme="dark"] .minimal-light-page {
     gap: 0.65rem;
   }
 }
+
+.education-list {
+  display: grid;
+  gap: 0.85rem;
+  padding: 0;
+  list-style: none;
+}
+
+.education-entry {
+  display: grid;
+  grid-template-columns: 3rem minmax(0, 1fr);
+  align-items: start;
+  gap: 0.75rem;
+}
+
+.education-crest {
+  box-sizing: border-box;
+  width: 3rem;
+  height: 3rem;
+  padding: 0.2rem;
+  border-radius: 0.25rem;
+  background: #fff;
+  object-fit: contain;
+}
+
+.education-institution {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  column-gap: 0.75rem;
+
+  span {
+    color: var(--global-text-color-light);
+    font-size: 0.9em;
+  }
+}

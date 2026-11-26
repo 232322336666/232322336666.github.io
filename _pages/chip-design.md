@@ -2,18 +2,17 @@
 layout: page
 title: Chip Design
 permalink: /chip-design/
-description: Selected integrated circuits for neural interfaces, in-memory computing, and sensor readout.
+description: Selected integrated circuits for neural interfaces, data conversion, and sensor readout.
 ---
 
 ## Selected Chips
 
 {% include showcase-list.liquid items=site.data.showcase.chips %}
 
-## Research Projects
+## Robotics & DIY
 
-{% assign research_projects = site.projects | where: 'category', 'work' | sort: 'importance' %}
-<ul>
-  {% for project in research_projects %}
-    <li><a href="{{ project.url | relative_url }}">{{ project.title | escape }}</a></li>
-  {% endfor %}
-</ul>
+- [SmartCar Competition Vehicle]({{ '/robotics-diy/' | relative_url }}#smartcar)
+- [RoboMaster]({{ '/robotics-diy/' | relative_url }}#robomaster-soldier)
+- [HoloCubic]({{ '/robotics-diy/' | relative_url }}#holocubic)
+- [Hanwen Mechanical Keyboard]({{ '/robotics-diy/' | relative_url }}#hanwen)
+- [Reuleaux Triangle Robot]({{ '/robotics-diy/' | relative_url }}#lailuo)
