@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-outcomes",
-          title: "Outcomes",
-          description: "My electronics DIY, robotics, and IC design projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/outcomes/";
-          },
         },{id: "nav-cv",
           title: "cv",
           description: "No one can leave this world smiling.",
