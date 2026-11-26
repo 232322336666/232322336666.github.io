@@ -58,7 +58,9 @@ layout: default
       {{ page.awards | markdownify }}
     {% endif %}
 
-    {% if site.contact_note %}<p class="minimal-contact-note">{{ site.contact_note }}</p>{% endif %}
+    {% if site.contact_note %}
+      <p class="minimal-contact-note">{{ site.contact_note }}</p>
+    {% endif %}
 
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}

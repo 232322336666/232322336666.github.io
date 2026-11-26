@@ -7,7 +7,12 @@
         <ul class="minimal-submenu">
           {% for child in item.children %}
             <li>
-              <a href="{{ child.url | relative_url }}"{% if page.url == child.url %} aria-current="page"{% endif %}>
+              <a
+                href="{{ child.url | relative_url }}"
+                {% if page.url == child.url %}
+                  aria-current="page"
+                {% endif %}
+              >
                 {{- child.title | escape -}}
               </a>
             </li>
@@ -15,7 +20,12 @@
         </ul>
       </details>
     {% else %}
-      <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>
+      <a
+        href="{{ item.url | relative_url }}"
+        {% if page.url == item.url %}
+          aria-current="page"
+        {% endif %}
+      >
         {{- item.title | escape -}}
       </a>
     {% endif %}

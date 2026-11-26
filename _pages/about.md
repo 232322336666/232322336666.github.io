@@ -49,16 +49,16 @@ awards: |
 
 ## Education
 
-**City University of Hong Kong** | 2024/09-2028/06 (Expected)  
-*Ph.D in Electronic Engineering*  
+**City University of Hong Kong** | 2024/09-2028/06 (Expected)<br>
+_Ph.D in Electronic Engineering_<br>
 Department of Electronic Engineering
 
-**University of Chinese Academy of Sciences** | 2021/09-2024/06  
-*Master's Degree in Microelectronics and Solid-State Electronics*  
+**University of Chinese Academy of Sciences** | 2021/09-2024/06<br>
+_Master's Degree in Microelectronics and Solid-State Electronics_<br>
 Shanghai Institute of Microsystem and Information Technology
 
-**Central South University** | 2017/09-2021/06  
-*Bachelor's Degree in Electronic Information Science and Technology*  
+**Central South University** | 2017/09-2021/06<br>
+_Bachelor's Degree in Electronic Information Science and Technology_<br>
 School of Physics and Electronics
 
 ## Research Focus
@@ -70,4 +70,3 @@ Designing ultra-low power circuits for multi-channel iBMI signal acquisition usi
 ### Neuromorphic Computing for BMI Systems
 
 Developing a neuromorphic BMI chip with Spiking Neural Networks for real-time brain signal decoding, targeting low-power wearable neurorehabilitation and human-computer interaction applications.
-
