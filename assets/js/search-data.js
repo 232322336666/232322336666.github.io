@@ -10,8 +10,8 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-publications",
-          title: "publications",
-          description: "publications by categories in reversed chronological order.",
+          title: "Publications",
+          description: "Conference papers, journal articles, and preprints by publication year.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -22,13 +22,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
-          },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "No one can leave this world smiling.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
           },
         },{id: "post-isscc-2027-submission-unsuccessful",
         
