@@ -1,0 +1,24 @@
+{% assign homepage = site.pages | where: 'permalink', '/' | first %}
+{% assign portrait = homepage.profile.image | prepend: '/assets/img/' %}
+<aside class="minimal-profile" aria-label="Profile">
+  {% if homepage.profile.image %}
+    <a class="minimal-portrait" href="{{ '/' | relative_url }}" aria-label="Home">
+      <img src="{{ portrait | relative_url }}" alt="{{ site.title | escape }}" width="108" height="108">
+    </a>
+  {% endif %}
+  {% if page.url == '/' %}
+    <h1 class="minimal-name">{{ site.title | escape }}</h1>
+  {% else %}
+    <a class="minimal-name" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+  {% endif %}
+  <p class="minimal-affiliation">{{ homepage.subtitle }}</p>
+  {% if homepage.social %}
+    <div class="minimal-social">{% include social.liquid %}</div>
+  {% endif %}
+  {% if homepage.profile.more_info %}
+    <details class="minimal-office">
+      <summary>Office address</summary>
+      {{ homepage.profile.more_info }}
+    </details>
+  {% endif %}
+</aside>

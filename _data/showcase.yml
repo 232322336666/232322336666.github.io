@@ -1,0 +1,104 @@
+chips:
+  - id: esserc-2026
+    title: 32-Channel Brain–Machine Interface SoC
+    description: Dual-threshold delta modulation, in-memory spike detection, and bidirectional spiking neural network decoding at 3.53 µW per channel.
+    image: /assets/img/projects/esserc2026-die.jpg
+    alt: Die micrograph of the 32-channel brain–machine interface SoC
+    width: 1313
+    height: 1751
+    links:
+      - label: ESSERC 2026 paper
+        url: https://arxiv.org/abs/2606.01776
+      - label: Full-size die image
+        url: /assets/img/projects/esserc2026-die.jpg
+
+  - id: nonlinear-analog-cim
+    title: Nonlinear Analog Computing-in-Memory Macro
+    description: A 65 nm CMOS macro for multi-bit LSTM acceleration with an energy efficiency of 33.6–136.2 TOPS/W.
+    image: /assets/img/publication_preview/JSSC.jpg
+    alt: Preview of the nonlinear analog computing-in-memory paper
+    width: 345
+    height: 146
+    links:
+      - label: IEEE JSSC paper
+        url: https://doi.org/10.1109/JSSC.2025.3638445
+
+  - id: sar-adc
+    title: 14-Bit SAR ADC Chip Design
+    image: /assets/img/projects/adc.png
+    alt: 14-bit SAR ADC chip design
+    width: 1930
+    height: 1365
+
+  - id: infrared-roic
+    title: Digital Readout IC for Infrared Focal-Plane Arrays
+    image: /assets/img/projects/readout.png
+    alt: PCB layout for the infrared focal-plane array digital readout IC
+    width: 962
+    height: 847
+    links:
+      - label: IEEE Sensors Letters paper
+        url: https://doi.org/10.1109/LSENS.2023.3290983
+
+robotics:
+  - id: robomaster-soldier
+    title: RoboMaster Soldier Robot
+    image: /assets/img/projects/solider.jpg
+    alt: Soldier robot from the RoboMaster competition
+    width: 1707
+    height: 1280
+
+  - id: robomaster-engineer
+    title: RoboMaster Engineer Robot
+    image: /assets/img/projects/engineer.jpg
+    alt: Engineer robot from the RoboMaster competition
+    width: 1920
+    height: 1280
+
+  - id: robomaster-hero
+    title: RoboMaster Hero Robot
+    image: /assets/img/projects/hero.jpg
+    alt: Hero robot from the RoboMaster competition
+    width: 1280
+    height: 1920
+
+  - id: smartcar
+    title: SmartCar Competition Vehicle
+    image: /assets/img/projects/smartcar.jpg
+    alt: Vehicle built for the SmartCar Competition
+    width: 1280
+    height: 1706
+
+electronics:
+  - id: holocubic
+    title: HoloCubic
+    description: A mini smart desktop display based on ESP32-S3.
+    image: /assets/img/projects/holocubic.jpg
+    alt: HoloCubic smart desktop display
+    width: 723
+    height: 733
+    links:
+      - label: HoloCubic demo video
+        url: https://www.bilibili.com/video/BV1X44y1Y7FL/?spm_id_from=333.1387.homepage.video_card.click
+
+  - id: hanwen
+    title: Hanwen Mechanical Keyboard
+    description: A custom mechanical keyboard with a hot-swap PCB.
+    image: /assets/img/projects/hanwen.jpg
+    alt: Hanwen custom mechanical keyboard
+    width: 1467
+    height: 825
+    links:
+      - label: Hanwen keyboard demo video
+        url: https://www.bilibili.com/video/BV1SccBeSEgu/?spm_id_from=333.1387.homepage.video_card.click
+
+  - id: lailuo
+    title: Reuleaux Triangle Robot
+    description: A triangular robotic platform with ROS integration.
+    image: /assets/img/projects/lailuo.jpg
+    alt: Reuleaux triangle robotic platform
+    width: 1467
+    height: 825
+    links:
+      - label: Reuleaux triangle demo video
+        url: https://www.bilibili.com/video/BV1PF411u7RU/?spm_id_from=333.1387.homepage.video_card.click

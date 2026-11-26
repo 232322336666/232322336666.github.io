@@ -1,0 +1,31 @@
+<ul class="showcase-list">
+  {% for item in include.items %}
+    <li class="showcase-item" id="{{ item.id | escape }}">
+      <img
+        class="showcase-image"
+        src="{{ item.image | relative_url }}"
+        alt="{{ item.alt | escape }}"
+        width="{{ item.width }}"
+        height="{{ item.height }}"
+        loading="lazy"
+      >
+      <div class="showcase-content">
+        <h3>{{ item.title | escape }}</h3>
+        {% if item.description %}
+          <p>{{ item.description | escape }}</p>
+        {% endif %}
+        {% if item.links %}
+          <ul class="showcase-links">
+            {% for link in item.links %}
+              <li>
+                <a href="{% if link.url contains '://' %}{{ link.url | escape }}{% else %}{{ link.url | relative_url }}{% endif %}">
+                  {{- link.label | escape -}}
+                </a>
+              </li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      </div>
+    </li>
+  {% endfor %}
+</ul>

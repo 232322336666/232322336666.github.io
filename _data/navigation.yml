@@ -1,0 +1,12 @@
+- title: Home
+  url: /
+- title: Publications
+  url: /publications/
+- title: Projects
+  children:
+    - title: Chip Design
+      url: /chip-design/
+    - title: Robotics & DIY
+      url: /robotics-diy/
+- title: CV
+  url: /cv/

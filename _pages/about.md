@@ -3,15 +3,16 @@ layout: about
 title: about
 permalink: /
 subtitle: |
-  Ph.D Student of<br>
-  <a href="https://www.cityu.edu.hk/" target="_blank">City University of Hongkong</a><br>
-  📧 zhengnafu2-c@my.cityu.edu.hk ·
-  📱 +852 97423651
+  PhD student in Electronic Engineering<br>
+  <a href="https://www.cityu.edu.hk/" target="_blank">City University of Hong Kong</a><br>
+  zhengnafu2-c@my.cityu.edu.hk<br>
+  +852 97423651
+
+intro: |
+  I am a PhD student in electronic engineering at City University of Hong Kong. My research focuses on ultra-low-power circuits, analog in-memory computing, and neuromorphic chips for brain–machine interfaces.
 
 profile:
-  align: right
   image: me.jpg
-  image_circular: false # crops the image to make it circular
   more_info: |
     <p>6508, Li-Academic Building</p>
     <p>City University of Hongkong</p>
